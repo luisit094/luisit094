@@ -3,16 +3,11 @@ layout: about
 title: about
 portrait: /img/art/02-10.jpg
 links:
-  twitter: https://twitter.com/
-  linkedin: https://linkedin.com/
-  email: mailto:nwentworth95@gmail.com
+  twitter: https://twitter.com/luisvalle94
+  linkedin: https://www.linkedin.com/in/luisvalle3/
+  email: mailto:valle.luis80@gmail.com
 ---
 
 here's stuff about me!
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I've taken on numerous roles in different projects ranging from lead 3D Artist and Lead Level Designer to Audio and Programmer. I've traveled to many countries including Japan, Puerto Rico, Mexico, and Dominican Republic. I speak both Spanish and English fluently, so it allows me to bring in more diversity into projects. With these skills I hope to further improve them with help from others in the industry through an internship. I strive to learn as much as I can.
