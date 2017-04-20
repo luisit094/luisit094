@@ -1,9 +1,9 @@
 ---
 layout: default
 title: 1692
-featuredimages: [01-7.png, 01-8.png]
+featuredimages: [01-7.png]
 featuredvideos: <iframe width="560" height="315" src="https://www.youtube.com/embed/VE6OPKe4uYs" frameborder="0" allowfullscreen></iframe>
-images: [01-7.png, 02-10.jpg, 03-11.jpg, 03-11.jpg]
+images: [01-8.png, 01-9.png, 01-10.png, 01-11.png]
 theme: dark
 category: game
 ---
