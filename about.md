@@ -5,7 +5,7 @@ portrait: /img/art/02-10.jpg
 links:
   twitter: https://twitter.com/luisvalle94
   linkedin: https://www.linkedin.com/in/luisvalle3/
-  email: :valle.luis80@gmail.com
+  email: mailto:valle.luis80@gmail.com
 ---
 
 here's stuff about me!
