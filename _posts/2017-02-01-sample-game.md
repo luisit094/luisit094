@@ -1,13 +1,14 @@
 ---
 layout: default
-title: game name
+title: 1692
 featuredimages: [01-7.jpg, 01-7.jpg]
+featuredvideos: ['<iframe width="560" height="315" src="https://www.youtube.com/watch?v=VE6OPKe4uYs" frameborder="0" allowfullscreen></iframe>']
 images: [01-7.jpg, 02-10.jpg, 03-11.jpg, 03-11.jpg]
 theme: dark
 category: game
 ---
 
-# here's the title of these images
+1692
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
