@@ -1,17 +1,17 @@
 # Site settings
-title: My Little Website
-tagline: "Changing the world, one uninspired quote at a time"
-url: "http://yourwebsite.com" # The base hostname & protocol for your site. Use it if you need absolute URL's
+title: Luis Valle's Portfolio
+tagline: "Let's make games together"
+url: "http://luisvalle.net" # The base hostname & protocol for your site. Use it if you need absolute URL's
 permalink: /:title/
 font: <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
 
 # Social
 socialimg: /img/social.jpg # be sure to change this image
 facebook: fbusername
-twitter: twusername
-github: ghusername
+twitter: luisvalle94
+github: luisit094
 googleplus: gusername
-instagram: igusername
+instagram: luisito_dc5
 
 # Contact
 phone: "916-276-1044" # This is my real number. You should text me.
