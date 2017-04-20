@@ -1,6 +1,6 @@
 ---
 layout: default
-title: game name
+title: Happy Birthday Kaijr!
 featuredimages: [01-7.jpg]
 featuredvideos: ['<iframe width="560" height="315" src="https://www.youtube.com/embed/xEeFrLSkMm8?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>']
 images: [01-7.jpg, 02-10.jpg, 03-11.jpg, 03-11.jpg]
@@ -8,7 +8,7 @@ theme: light
 category: game
 ---
 
-# another game
+# Happy Birthday Kaijr!
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
