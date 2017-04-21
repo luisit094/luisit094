@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Happy Birthday Kaijr!
-featuredimages: [01-7.jpg]
+featuredimages: [01-7.png]
 featuredvideos: [<iframe width="560" height="315" src="https://www.youtube.com/embed/mgxDuZaSL1c" frameborder="0" allowfullscreen></iframe>]
-images: [01-7.jpg, 02-10.jpg, 03-11.jpg, 03-11.jpg]
-theme: light
+images: [01-7.png, 02-10.jpg, 03-11.jpg, 03-11.jpg]
+theme: dark
 category: game
 ---
 
