@@ -8,13 +8,6 @@ theme: dark
 category: game
 ---
 
-1692
+# Happy Birthday Kaijr!
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-[here's a link inside the body text](http://nathanwentworth.co)
+Under the mentorship of Ichiro Lambe of Dejobaan Games eight other students and I worked full time to make Happy Birthday Kaijr! The game was present at PAX East, and the Made in MA PAX Party. We will be pitching the game to Adult Swim on May 4th. I was one of the 3d artists for the game making and unwrapping assets ranging from props to fully destructible buildings. 
