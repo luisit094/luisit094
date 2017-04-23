@@ -1,11 +1,11 @@
 ---
 layout: default
 title: sample model
-images: [01-7.jpg, 02-10.jpg, 03-11.jpg]
+images: [hatchet-render.png, hatchet-topo.png, hatchet-unwrap.png]
 theme: light
 category: art
 ---
 
-# here's the title of these images
+# Hatchet
 
-here's the description of these images
+This was an impromptu model done for a reddit challenge. r/daily3d has a new model posted everyday so i participate often in them. 
