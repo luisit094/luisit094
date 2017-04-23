@@ -1,7 +1,7 @@
 ---
 layout: about
 title: about
-portrait: /img/art/02-10.jpg
+portrait: /img/art/headshot.jpg
 links:
   twitter: https://twitter.com/luisvalle94
   linkedin: https://www.linkedin.com/in/luisvalle3/
