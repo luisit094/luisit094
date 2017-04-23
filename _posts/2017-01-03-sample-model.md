@@ -1,8 +1,7 @@
 ---
 layout: default
 title: sample model
-featuredimages: [hatchet-render.png]
-images: [hatchet-topo.png, hatchet-unwrap.png]
+images: [hatchet-render.png, hatchet-topo.png, hatchet-unwrap.png]
 theme: light
 category: art
 ---
