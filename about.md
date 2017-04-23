@@ -6,6 +6,7 @@ links:
   twitter: https://twitter.com/luisvalle94
   linkedin: https://www.linkedin.com/in/luisvalle3/
   email: mailto:valle.luis80@gmail.com
+  resume: https://drive.google.com/file/d/0B4Dkzh_6yr6eXzRPTlE2VmwwTEk/view?usp=sharing
 ---
 
 here's stuff about me!
