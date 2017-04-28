@@ -8,4 +8,4 @@ category: art
 
 # Beach Table
 
-Here is a game ready asset made for Happy Birthday Kaijr! This will be placed on the beach which is where the anchor style came from.(Texture not mine)
+Here is a game ready asset made for Happy Birthday Kaijr! This will be placed on the beach which is where the anchor style came from. (Texture not mine)
