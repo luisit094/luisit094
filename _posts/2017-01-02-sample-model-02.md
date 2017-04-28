@@ -1,7 +1,7 @@
 ---
 layout: default
 title: another sample model
-images: [01-7.jpg, 02-10.jpg, 03-11.jpg]
+images: [hbk-beach-table.jpg, beach-table-topo.jpg, beach-table-unwrap.jpg]
 theme: dark
 category: art
 ---
