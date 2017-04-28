@@ -1,7 +1,7 @@
 ---
 layout: default
 title: another sample model
-images: [moto-z-force.jpg, moto-z-force2.jpg, moto-z-force-back.jpg]
+images: [moto-z-force.jpg, moto-z-force2.jpg, moto-z-force-back.png, side-pro.png]
 theme: dark
 category: art
 ---
