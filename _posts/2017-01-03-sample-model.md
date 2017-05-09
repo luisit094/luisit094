@@ -1,7 +1,7 @@
 ---
 layout: default
 title: sample model
-images: [livingroom.png, livingroom (2).png, livingroom (3).png, livingroom (4).png, livingroom (5).png, livingroom (6).png, livingroom (7).png]
+images: [livingroom.png, livingroom (2).png, livingroom (3).png, livingroom (5).png, livingroom (6).png, livingroom (7).png]
 theme: light
 category: art
 ---
