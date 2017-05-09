@@ -1,11 +1,11 @@
 ---
 layout: default
 title: sample model
-images: [hatchet-render.png, hatchet-topo.png, hatchet-unwrap.png]
+images: [livingroom.png, livingroom (2).png, livingroom (3).png, livingroom (4).png, livingroom (5).png, livingroom (6).png, livingroom (7).png]
 theme: light
 category: art
 ---
 
-# Hatchet
+# Beach Front View
 
-This was an impromptu model done for a reddit challenge. r/daily3d has a new model posted everyday this being the challenge for 02/10/17
+Attempted to do a bit of enviornment art and model a living room with a view. This project tought me a lot about arnold lighting and custom normal map creation using NDO. Furniture textures were done in quixel and wall and floor texture were hand made in photoshop.
