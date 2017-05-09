@@ -8,4 +8,4 @@ category: art
 
 # Beach Front View
 
-Attempted to do a bit of enviornment art and model a living room with a view. This project tought me a lot about arnold lighting and custom normal map creation using NDO. Furniture textures were done in quixel and wall and floor texture were hand made in photoshop.
+Attempted to do a bit of enviornment art and model a living room with a view. This project tought me a lot about arnold lighting and custom normal map creation using NDO. Furniture textures were done in quixel and wall and floor texture were hand made in photoshop. (tv has a photo texture)
