@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Echo Hunt
-featuredimage: [ggj-2017-team-photo.jpg]
+featuredimages: [ggj-2017-team-photo.jpg]
 images: [echohunt_screenshot-01.png]
 theme: dark
 category: game
