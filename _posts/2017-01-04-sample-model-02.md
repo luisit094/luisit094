@@ -8,4 +8,4 @@ category: art
 
 # Jet
 
-High poly version of a jet model used in a mobile game i developed.
+High poly version of a jet model used in a mobile game I developed.
