@@ -1,8 +1,8 @@
 ---
 layout: default
 title: SONIC ENERGY NAVIGATION to DEFEND NURTURE and UNITE DISTANT EXTRATERRESTRIAL SPECIES
-featuredimages: [sendnudes.png]
 featuredvideos: <iframe width="560" height="315" src="https://www.youtube.com/embed/eYZTTfdI4yY" frameborder="0" allowfullscreen></iframe>
+featuredimages: [sendnudes.png]
 theme: light
 category: game
 ---
