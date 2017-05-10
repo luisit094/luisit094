@@ -12,4 +12,6 @@ category: game
 
 A semester long project in which we concepted out several games and built upon one of them. 1692 was a culmination of each of the team members best ideas. Deep story, unique art style, branching dialug, and eerie music. I as art lead helped maintain the art style and along with the other artist developed an art bible that would be used as refrence for our models. We wanted everything to have a "sketchy" look by emphasizing cross hatching in the textures.
 
+Role: Lead 3D Artist
+
 [Download now on PC](https://luisvalle.itch.io/1692)
