@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Echo Hunt
-featuredvideos: <iframe width="560" height="315" src="https:/ww.youtube.com/embed/VE6OPKe4uYs" frameborder="0" allowfullscreen></iframe>
 images: [ggj-2017-team-photo.jpg, echohunt_screenshot-01.png]
 theme: dark
 category: game
