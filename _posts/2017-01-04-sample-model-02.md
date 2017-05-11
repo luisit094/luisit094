@@ -8,4 +8,4 @@ category: art
 
 # Jet
 
-High poly version of a jet model used in a mobile game I developed.
+A basic jet model I created for an unreleased mobile game. Supporting edges and smoothing groups helped me get a smooth looking model.
