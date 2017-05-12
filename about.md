@@ -11,7 +11,8 @@ links:
 
 Cultured and creative, I speak both Spanish and English fluently, so it allows me to bring in more diversity into projects.I am an enthusiastic 3D artist who is always ready for a challenge. A team player who has experience working in fast paced enviornments and possess an organized and adaptable workflow.
 
-Fun facts: 
+Fun facts:
+
 I'm Left handed
-I'm a car enthusists
+I'm a car enthusist
 
