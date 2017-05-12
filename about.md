@@ -14,5 +14,6 @@ Cultured and creative, I speak both Spanish and English fluently, so it allows
 Fun facts:
 
 I'm Left handed
+
 I'm a car enthusist
 
