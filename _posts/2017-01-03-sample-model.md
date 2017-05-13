@@ -2,6 +2,7 @@
 layout: default
 title: Ship
 featuredimages: [ship.png]
+images: [ship.png]
 theme: light
 category: art
 ---
