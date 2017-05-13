@@ -1,7 +1,7 @@
 ---
 layout: default
 title: jet
-featuredimage: [jet.jpg]
+featuredimages: [jet.jpg]
 theme: dark
 category: art
 ---
