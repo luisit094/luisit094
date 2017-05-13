@@ -2,6 +2,7 @@
 layout: default
 title: jet
 featuredimages: [jetrender.jpg]
+images: [jetrender.jpg]
 theme: dark
 category: art
 ---
