@@ -1,11 +1,11 @@
 ---
 layout: default
 title: another sample model
-images: [hbk-beach-table-render.jpg, beachtable-topo.png, beach-table-unwrap.png]
+images: [jet.jpg, jet2.jpg, jet3.jpg, jet4.jpg]
 theme: dark
 category: art
 ---
 
-# Beach Table
+# Jet
 
-Here is a game ready asset made for Happy Birthday Kaijr! This will be placed on the beach which is where the anchor style came from. (Texture not mine)
+A basic jet model I created for an unreleased mobile game. Supporting edges and smoothing groups helped me get a smooth looking model.
