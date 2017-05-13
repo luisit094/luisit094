@@ -1,8 +1,8 @@
 ---
 layout: default
-title: jet
+title: Ship
 featuredimages: [ship.png]
-theme: dark
+theme: light
 category: art
 ---
 
