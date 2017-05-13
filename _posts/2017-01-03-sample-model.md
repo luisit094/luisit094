@@ -1,12 +1,11 @@
 ---
 layout: default
 title: jet
-featuredimages: [jetrender.jpg]
-images: [jetrender.jpg]
+featuredimages: [ship.png]
 theme: dark
 category: art
 ---
 
-# Jet
+# S.S Scream
 
-A basic jet model I created for an unreleased mobile game. This was a rather difficult model to do, refrence images played a big part in keeping a consistent look
+Here is the ship model i created for our four hour game jam. Total time to model this was about thirty minutes. Modeled two other ships and some space debris also.
