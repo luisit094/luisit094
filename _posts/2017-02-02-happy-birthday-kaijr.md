@@ -14,5 +14,3 @@ Under the mentorship of Ichiro Lambe of Dejobaan Games eight other students and 
 [Download on PC or MAC](https://github.com/nathanwentworth/happy-birthday-kai-junior/releases/tag/v0.7)
 
 Role: 3D Artist
-
-[Painting belongs to Olivia Horacek](https://roselinath.artstation.com/)
