@@ -9,7 +9,7 @@ links:
   resume: https://drive.google.com/file/d/0B4Dkzh_6yr6ecWUxM0o3N3R0d3c/view?usp=sharing
 ---
 
-Cultured and creative, I speak both Spanish and English fluently, so it allows me to bring in more diversity into projects.I am an enthusiastic 3D artist who is always ready for a challenge. A team player who has experience working in fast paced enviornments and possess an organized and adaptable workflow.
+Im a 3D artist who specializes in hard surface modeling. Video games have always been an interest of mine and I hope to level up my skills with industry experience. I keep myself busy by making games and modeling new and complex objects. I bring jokes and entertainment to any team, but of course work comes first! I also have a dog named Zeus who hangs out with me while I push verts around in Maya which is my prefered software for modeling. 
 
 Fun facts:
 
