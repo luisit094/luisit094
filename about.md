@@ -13,8 +13,10 @@ Cultured and creative, I speak both Spanish and English fluently, so it allows
 
 Fun facts:
 
-•Left handed
+•Is left handed
 
-•A car enthusist
+•Loves cars
+
+•Has an odd obsession with pastrami
 
 
