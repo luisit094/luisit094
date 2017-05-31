@@ -1,5 +1,5 @@
 # Site settings
-title: Luis Valle's Portfolio (Currently Under Construction)
+title: Luis Valle's Portfolio
 tagline: "Let's make games together"
 url: "http://luisvalle.net" # The base hostname & protocol for your site. Use it if you need absolute URL's
 permalink: /:title/
