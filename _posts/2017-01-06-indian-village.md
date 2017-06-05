@@ -8,4 +8,4 @@ category: art
 
 # Indian Village
 
-This is a historically accurate model of a Native American village made in UE4. I had lots of fun with this project specifically making the palisades. The unevenness and vines tied around the posts for support gives it that subtle realness that helps complete the scene. (Trees and bushes were Creative Commons, Tents and spears were modeled by my teammate)
+This is a historically accurate model of a Native American village made in UE4. I had lots of fun with this project specifically making the palisades. The unevenness and vines tied around the posts for support gives it that subtle realness that helps complete the scene. I did all the level design and terrain creation within Unreal. (Trees and bushes were Creative Commons, Tents and spears were modeled by my teammate)
