@@ -1,6 +1,6 @@
 # Site settings
 title: Luis Valle's Portfolio
-tagline: "Let's make games together"
+tagline: "All models are in English"
 url: "http://luisvalle.net" # The base hostname & protocol for your site. Use it if you need absolute URL's
 permalink: /:title/
 font: <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
