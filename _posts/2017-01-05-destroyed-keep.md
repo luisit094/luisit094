@@ -8,4 +8,4 @@ category: art
 
 # Destroyed Keep
 
-Here is a little scene I did attempting to do some organic modeling. I started with a base box in Maya then subdivided it several times and drew in a couple cracks with the multi-cut tool, beveled it, then moved them inwards. After i grabbed the sculpt on geo took and sculpted in unneveness to the block. The terrain has a normal map of a high poly version. The baking was done in xNormal.
+Here is a little scene I did attempting to do some organic modeling. My original plane was to add a bunch of edge loops to a fully blocked out keep then extrude with keep faces together on. That ended up being to tricky so i found ease in sculpting the stone and then hand placing them into the scene. The terrain has a normal map of a high poly version and the baking was done in xNormal.
