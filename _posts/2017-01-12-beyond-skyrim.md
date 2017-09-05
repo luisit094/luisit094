@@ -1,7 +1,7 @@
 ---
 layout: default
 title: another sample model
-images: [hla_build.png, hla_build2.png, hla_build_int.png, hla_build_int2.png, lp_ashpit.png, hla_doorframe.png, hla_tile1.png, hla_tile2.png]
+images: [hla_build.png, hla_build2.png, hla_build_int.png, hla_build_int2.png, lp_ashpit.PNG, hla_doorframe.png, hla_tile1.png, hla_tile2.png]
 theme: dark
 category: art
 ---
