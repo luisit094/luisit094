@@ -1,7 +1,7 @@
 ---
 layout: default
 title: another sample model
-images: [pb_rear.jpg, pb_side.jpg, pb_persp.png, pb_persp2.png, pb_front.png]
+images: [pb_rear.jpg, pb_side.jpg, pb_persp.jpg, pb_persp2.jpg, pb_front.jpg]
 theme: light
 category: art
 ---
