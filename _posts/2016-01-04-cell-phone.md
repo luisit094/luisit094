@@ -6,6 +6,6 @@ theme: light
 category: art
 ---
 
-# Cell Phone
+# WIP Petebilt 359
 
-Here is a high poly cell phone with default Keyshot materials. Definitely able to stretch the poly count when not making assets for games. Plus you really need to think efficiently for low poly's which in turn helps high poly models (at least in my case).
+A high poly truck I've been working on. You can see all the little detail from the side markers the the rear trailer locks. I'm having a lot of fun with this project
