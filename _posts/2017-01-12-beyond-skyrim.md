@@ -8,4 +8,4 @@ category: art
 
 # Beyond Skyrim
 
-Here are some samples of the work I'm currently doing for Beyond Skyrim. [Download the mod here] (http://www.nexusmods.com/skyrim/mods/84946)
+Here are some samples of the work I'm currently doing for Beyond Skyrim. [Download the mod here](http://www.nexusmods.com/skyrim/mods/84946)
